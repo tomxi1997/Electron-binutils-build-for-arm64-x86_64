@@ -12,6 +12,8 @@ git clone https://github.com/tomxi1997/Electron-binutils-build-for-arm64.git
 
 3.修改build-electron-binutils.sh满意后
 
+cd Electron-binutils-build-for-arm64
+
 chmod +x build-electron-binutils.sh
 
 ./build-electron-binutils.sh
