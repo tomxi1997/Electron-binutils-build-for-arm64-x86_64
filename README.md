@@ -1,4 +1,4 @@
-# Electron-binutils-build-for-arm64
+# Electron-binutils-build-for-arm64/x86_64
 Electron-binutils-build for arm64 only 
 
 1.编译步骤
