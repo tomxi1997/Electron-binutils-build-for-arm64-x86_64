@@ -1,5 +1,5 @@
 # Electron-binutils-build-for-arm64/x86_64
-Electron-binutils-build for arm64 only 
+Electron-binutils-build for arm64/x86_64
 
 1.编译步骤
 环境ubuntu 18.04 arm64/x86_64
